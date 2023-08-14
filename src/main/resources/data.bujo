@@ -1,0 +1,23 @@
+{
+  "password" : "test2",
+  "Week" : {
+    "name" : "OOD Busy Week",
+    "days" : [ {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    } ],
+    "maximumEvents" : 1000,
+    "maximumTasks" : 1000
+  }
+}

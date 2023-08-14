@@ -1,0 +1,172 @@
+{
+  "password" : "test",
+  "Week" : {
+    "name" : "OOD Busy Week",
+    "days" : [ {
+      "events" : [ {
+        "name" : "New task",
+        "description" : "Task description",
+        "duration" : {
+          "hour" : 13,
+          "minutes" : 59
+        },
+        "day" : "MONDAY",
+        "startTime" : {
+          "hour" : 10,
+          "minutes" : 0
+        }
+      } ]
+    }, {
+      "events" : [ {
+        "name" : "QWE",
+        "description" : "QWE",
+        "duration" : {
+          "hour" : 13,
+          "minutes" : 59
+        },
+        "day" : "TUESDAY",
+        "startTime" : {
+          "hour" : 10,
+          "minutes" : 0
+        }
+      } ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ {
+        "name" : "Exam 2",
+        "description" : "second test for OOD",
+        "duration" : {
+          "hour" : 1,
+          "minutes" : 40
+        },
+        "day" : "THURSDAY",
+        "startTime" : {
+          "hour" : 9,
+          "minutes" : 50
+        }
+      }, {
+        "name" : "Exam 2",
+        "description" : "second test for OOD",
+        "duration" : {
+          "hour" : 1,
+          "minutes" : 40
+        },
+        "day" : "THURSDAY",
+        "startTime" : {
+          "hour" : 9,
+          "minutes" : 50
+        }
+      }, {
+        "name" : "Exam 2",
+        "description" : "second test for OOD",
+        "duration" : {
+          "hour" : 1,
+          "minutes" : 40
+        },
+        "day" : "THURSDAY",
+        "startTime" : {
+          "hour" : 9,
+          "minutes" : 50
+        }
+      }, {
+        "name" : "Exam 2",
+        "description" : "second test for OOD",
+        "duration" : {
+          "hour" : 1,
+          "minutes" : 40
+        },
+        "day" : "THURSDAY",
+        "startTime" : {
+          "hour" : 9,
+          "minutes" : 50
+        }
+      }, {
+        "name" : "Exam 2",
+        "description" : "second test for OOD",
+        "duration" : {
+          "hour" : 1,
+          "minutes" : 40
+        },
+        "day" : "THURSDAY",
+        "startTime" : {
+          "hour" : 9,
+          "minutes" : 50
+        }
+      }, {
+        "name" : "Exam 2",
+        "description" : "second test for OOD",
+        "duration" : {
+          "hour" : 1,
+          "minutes" : 40
+        },
+        "day" : "THURSDAY",
+        "startTime" : {
+          "hour" : 9,
+          "minutes" : 50
+        }
+      }, {
+        "name" : "Exam 2",
+        "description" : "second test for OOD",
+        "duration" : {
+          "hour" : 1,
+          "minutes" : 40
+        },
+        "day" : "THURSDAY",
+        "startTime" : {
+          "hour" : 9,
+          "minutes" : 50
+        }
+      }, {
+        "name" : "Exam 2",
+        "description" : "second test for OOD",
+        "duration" : {
+          "hour" : 1,
+          "minutes" : 40
+        },
+        "day" : "THURSDAY",
+        "startTime" : {
+          "hour" : 9,
+          "minutes" : 50
+        }
+      }, {
+        "name" : "Exam 2",
+        "description" : "second test for OOD",
+        "duration" : {
+          "hour" : 1,
+          "minutes" : 40
+        },
+        "day" : "THURSDAY",
+        "startTime" : {
+          "hour" : 9,
+          "minutes" : 50
+        }
+      }, {
+        "name" : "Create UML",
+        "description" : "Make UML for the the PA05 project. Should have the stuff from sections 1 and 2",
+        "day" : "THURSDAY",
+        "complete" : false
+      }, {
+        "name" : "Exam 2",
+        "description" : "second test for OOD",
+        "duration" : {
+          "hour" : 1,
+          "minutes" : 40
+        },
+        "day" : "THURSDAY",
+        "startTime" : {
+          "hour" : 9,
+          "minutes" : 50
+        }
+      } ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    } ],
+    "maximumEvents" : 1000,
+    "maximumTasks" : 1000
+  }
+}

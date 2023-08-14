@@ -1,0 +1,40 @@
+{
+  "password" : "test2",
+  "Week" : {
+    "name" : "OOD Busy Week",
+    "days" : [ {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ {
+        "name" : "examples event",
+        "description" : "examples event",
+        "duration" : {
+          "hour" : 10,
+          "minutes" : 30
+        },
+        "day" : "WEDNESDAY",
+        "startTime" : {
+          "hour" : 9,
+          "minutes" : 50
+        }
+      } ]
+    }, {
+      "events" : [ {
+        "name" : "examples task",
+        "description" : "we need to do some work",
+        "day" : "THURSDAY",
+        "complete" : false
+      } ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    } ],
+    "maximumEvents" : 1000,
+    "maximumTasks" : 1000
+  }
+}

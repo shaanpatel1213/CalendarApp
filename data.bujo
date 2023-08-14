@@ -1,0 +1,62 @@
+{
+  "Week" : {
+    "name" : "6/11 - 6/17",
+    "days" : [ {
+      "events" : [ {
+        "name" : "Task",
+        "description" : "task",
+        "duration" : {
+          "hour" : 0,
+          "minutes" : 19
+        },
+        "startTime" : {
+          "hour" : 23,
+          "minutes" : 40
+        }
+      } ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ {
+        "name" : "Create UML",
+        "description" : "Make UML for the the PA05 project. Should have the stuff from sections 1 and 2"
+      }, {
+        "name" : "Exam 2",
+        "description" : "second test for OOD",
+        "duration" : {
+          "hour" : 1,
+          "minutes" : 40
+        },
+        "startTime" : {
+          "hour" : 9,
+          "minutes" : 50
+        }
+      }, {
+        "name" : "Create UML",
+        "description" : "Make UML for the the PA05 project. Should have the stuff from sections 1 and 2"
+      }, {
+        "name" : "Exam 2",
+        "description" : "second test for OOD",
+        "duration" : {
+          "hour" : 1,
+          "minutes" : 40
+        },
+        "startTime" : {
+          "hour" : 9,
+          "minutes" : 50
+        }
+      } ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    } ],
+    "maximumEvents" : 100,
+    "maximumTasks" : 12,
+    "listOfDaysName" : [ "Monday", "Friday", "Tuesday", "Wednesday", "Sunday", "Thursday", "Saturday" ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "password" : "",
+  "Week" : {
+    "name" : "new test week examples",
+    "days" : [ {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    } ],
+    "maximumEvents" : 1000,
+    "maximumTasks" : 1000
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "Week" : {
+    "name" : "testEXamples",
+    "days" : [ {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    } ],
+    "maximumEvents" : 100,
+    "maximumTasks" : 100
+  }
+}

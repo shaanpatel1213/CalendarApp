@@ -1,0 +1,23 @@
+{
+  "Week" : {
+    "name" : "6/11 - 6/17",
+    "days" : [ {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    }, {
+      "events" : [ ]
+    } ],
+    "maximumEvents" : -1,
+    "maximumTasks" : -1,
+    "listOfDaysName" : [ "Monday", "Thursday", "Friday", "Wednesday", "Saturday", "Sunday", "Tuesday" ]
+  }
+}
